@@ -8,7 +8,7 @@ const Sidebar = () => {
       <div className="p-4 border-b border-sidebar-border">
         <div className="flex items-center gap-2 mb-4">
           <div className="w-8 h-8 bg-gradient-to-r from-orange-400 to-yellow-400 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">M</span>
+            <span className="text-white font-bold text-sm">RGPT</span>
           </div>
           <span className="text-sidebar-foreground font-semibold text-lg">React GPT</span>
         </div>
