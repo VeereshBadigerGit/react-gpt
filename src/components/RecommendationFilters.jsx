@@ -16,7 +16,7 @@ const RecommendationFilters = () => {
   ]
 
   return (
-    <div className="flex items-center gap-2 mb-6">
+    <div className="flex items-center gap-2 mb-6 justify-center">
       {filters.map((filter, index) => {
         const IconComponent = filter.icon
         const isActive = activeFilter === filter.label

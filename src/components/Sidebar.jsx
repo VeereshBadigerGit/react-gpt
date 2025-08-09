@@ -10,7 +10,7 @@ const Sidebar = () => {
           <div className="w-8 h-8 bg-gradient-to-r from-orange-400 to-yellow-400 rounded-lg flex items-center justify-center">
             <span className="text-white font-bold text-sm">M</span>
           </div>
-          <span className="text-sidebar-foreground font-semibold text-lg">manus</span>
+          <span className="text-sidebar-foreground font-semibold text-lg">React GPT</span>
         </div>
         
         {/* New Task Button */}
@@ -48,7 +48,7 @@ const Sidebar = () => {
             <div className="w-2 h-2 bg-green-500 rounded-full"></div>
             <div className="flex-1">
               <div className="text-sm text-sidebar-foreground font-medium">
-                Manus UI Clone Using React
+                First Query
               </div>
               <div className="text-xs text-sidebar-foreground/60">
                 I will do the following: 1. Researc...
@@ -65,7 +65,7 @@ const Sidebar = () => {
           <Share2 size={16} className="text-blue-400" />
           <div className="flex-1">
             <div className="text-sm text-sidebar-foreground font-medium">
-              Share Manus with a friend
+              Share ReactGPT with a friend
             </div>
             <div className="text-xs text-sidebar-foreground/60">
               Get 500 credits each
